@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          USERNAME: hashio251
+          USERNAME: ${{ github.repository_owner }}
