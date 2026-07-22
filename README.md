@@ -176,15 +176,15 @@ Python                   3 repos             ████████░░░�
 
 ## 📈 GitHub Statistics
 
-![](./profile-summary-card-output/profile-details.svg)
+![](./profile-summary-card-output/github/0-profile-details.svg)
 
-![](./profile-summary-card-output/repos-per-language.svg)
+![](./profile-summary-card-output/github/1-repos-per-language.svg)
 
-![](./profile-summary-card-output/most-commit-language.svg)
+![](./profile-summary-card-output/github/2-most-commit-language.svg)
 
-![](./profile-summary-card-output/stats.svg)
+![](./profile-summary-card-output/github/3-stats.svg)
 
-![](./profile-summary-card-output/productive-time.svg)
+![](./profile-summary-card-output/github/4-productive-time.svg)
 
 
 
