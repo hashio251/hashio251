@@ -186,7 +186,7 @@ Python                   3 repos             ████████░░░�
 
 ## 🌈 GitHub 3D Contribution
 
-![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
+<img src="https://raw.githubusercontent.com/hashio251/hashio251/main/profile-3d-contrib/profile-gitblock.svg" />
 
 
 
