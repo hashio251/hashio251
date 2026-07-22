@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850"><style>* { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
-.fill-fg { fill: #00000f; }
-.fill-bg { fill: #252338; }
-.stroke-bg { stroke: #252338; }
+.fill-fg { fill: #ffffff; }
+.fill-bg { fill: #2a2e3f; }
+.stroke-bg { stroke: #2a2e3f; }
 .stroke-bg { stroke: #ffffff; }
 .fill-strong { fill: #111133; }
-.fill-weak { fill: gray; }
-.stroke-weak { stroke: gray; }
+.fill-weak { fill: #ffffff; }
+.stroke-weak { stroke: #ffffff; }
 .radar {
 stroke-width: 4px;
 stroke: #47a042;
