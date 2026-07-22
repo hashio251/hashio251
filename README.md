@@ -176,14 +176,13 @@ Python                   3 repos             ████████░░░�
 
 ## 📈 GitHub Statistics
 
-![](./profile-summary-card-output/github/0-profile-details.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=calm&animation=draw&duration=3)
 
-![](./profile-summary-card-output/github/1-repos-per-language.svg)
-![](./profile-summary-card-output/github/2-most-commit-language.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=calm&animation=draw&duration=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=calm&animation=draw&duration=3)
 
-![](./profile-summary-card-output/github/3-stats.svg)
-![](./profile-summary-card-output/github/4-productive-time.svg)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=calm&animation=draw&duration=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=calm&animation=draw&duration=3&utcOffset=0)
 
 
 ---
