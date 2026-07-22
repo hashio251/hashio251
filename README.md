@@ -162,8 +162,19 @@ JavaScript               3 repos             ████████░░░�
 Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
 ```
 
+**Timeline**
 
-** 📊 GitHub Profile Summary Cards**
+![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/07/2026 04:24:18 UTC
+<!--END_SECTION:waka-->
+
+
+
+---
+
+## 📈 GitHub Statistics
 
 ![](./profile-summary-card-output/profile-details.svg)
 
@@ -177,13 +188,8 @@ Python                   3 repos             ████████░░░�
 
 
 
-**Timeline**
+---
 
-![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
-
-
- Last Updated on 22/07/2026 04:24:18 UTC
-<!--END_SECTION:waka-->
 
 
 ## 🌱 Currently Learning
