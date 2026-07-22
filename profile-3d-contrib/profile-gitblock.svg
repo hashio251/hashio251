@@ -11,7 +11,7 @@ stroke: #47a042;
 fill: #47a042;
 fill-opacity: 0.5;
 }
-.cont-top-bg-0 { fill: #f8f8f8; }
+.cont-top-bg-0 { fill: #de9bd7; }
 .cont-top-fg-0 { fill: #aaaaaa; }
 .cont-right-bg-0 { fill: rgb(174, 174, 174); }
 .cont-right-fg-0 { fill: rgb(119, 119, 119); }
