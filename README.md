@@ -163,6 +163,19 @@ Python                   3 repos             ████████░░░�
 ```
 
 
+** 📊 GitHub Profile Summary Cards**
+
+![](./profile-summary-card-output/profile-details.svg)
+
+![](./profile-summary-card-output/repos-per-language.svg)
+
+![](./profile-summary-card-output/most-commit-language.svg)
+
+![](./profile-summary-card-output/stats.svg)
+
+![](./profile-summary-card-output/productive-time.svg)
+
+
 
 **Timeline**
 
