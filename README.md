@@ -7,7 +7,7 @@ Wwb開発やデザインを中心に、Webサイト制作やプログラミン�
 
 I focus on web development and design, engaging in activities such as website creation, learning programming, and producing projects.
 
-<img src="./profile_readme.png" />
+<img src="./readme.png" />
 
 ## 📁 Repository Categories
 
@@ -24,26 +24,26 @@ Repositories on GitHub are categorized by number according to the content of the
 
 ---
 
-## 🛠 Technologies & Skills & Tools
+## 🛠 Technologies & Skills & Tools --> (*) is learning mark
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,p5js,react)](https://skillicons.dev)
 
 * HTML
 * CSS
-* JavaScript
+* JavaScript(*)
 * p5.js
 * OpenProcessing
-* React
+* React(*)
 
 
 ### Backend / Programming
 [![My Skills](https://skillicons.dev/icons?i=php,py,ts,java,django,flask)](https://skillicons.dev)
 
-* PHP
+* PHP(*)
 * Python
-* TypeScript
-* Java
+* TypeScript(*)
+* Java(*)
 * Django
 * Flask
 * Pandas
@@ -52,7 +52,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 * MySQL
-* PostgreSQL
+* PostgreSQL(*)
 
 ### CMS
 [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
@@ -98,7 +98,7 @@ Repositories on GitHub are categorized by number according to the content of the
 * Adobe After Effects
 * Adobe XD
 * Figma
-* Blender
+* Blender(*)
 
 
 ---
@@ -246,4 +246,11 @@ I am also learning about version control and team development using GitHub, as w
 GitHub Pagesやポートフォリオサイトを通して、制作したWebサイトや作品を公開しています。
 
 I showcase the websites and projects I have created via GitHub Pages and my portfolio site.
+
+---
+
+## 🔗 Github Pages Collection
+
+[portfolioSite](https://hashio251.github.io/index.html)
+[]
 
