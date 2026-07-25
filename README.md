@@ -7,6 +7,8 @@ Wwb開発やデザインを中心に、Webサイト制作やプログラミン�
 
 I focus on web development and design, engaging in activities such as website creation, learning programming, and producing projects.
 
+<img src="./profile_readme.png" />
+
 ## 📁 Repository Categories
 
 GitHub上のリポジトリは、制作内容ごとに番号で分類しています。
