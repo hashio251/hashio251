@@ -127,7 +127,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -170,24 +170,24 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-CSS                      7 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   42.00 % 
-HTML                     3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Markdown                 2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-TypeScript               2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+CSS                      7 hrs               ███████████░░░░░░░░░░░░░░   42.02 % 
+HTML                     3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Markdown                 2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+TypeScript               2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                6 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.79 % 
-ra-menapp                3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-git                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-myportfolio              1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-tyutai-kun               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+portfolio                6 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
+ra-menapp                4 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+myportfolio              2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+git                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Unknown Project          59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Mac                      16 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -205,7 +205,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:42:56 UTC
+ Last Updated on 26/07/2026 19:43:14 UTC
 <!--END_SECTION:waka-->
 
 
