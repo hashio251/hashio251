@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Hashio
 
-Wwb開発やデザインを中心に、Webサイト制作やプログラミングの学習、作品制作に取り組んでいます。
+Web開発やデザインを中心に、Webサイト制作やプログラミングの学習、作品制作に取り組んでいます。
 
 I focus on web development and design, engaging in activities such as website creation, learning programming, and producing projects.
 
