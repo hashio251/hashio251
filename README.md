@@ -127,7 +127,9 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -135,7 +137,7 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 416 Contributions in the Year 2026
+> 🏆 423 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -146,21 +148,21 @@ Repositories on GitHub are categorized by number according to the content of the
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-🌆 Daytime                123 commits         ██████████░░░░░░░░░░░░░░░   40.86 % 
-🌃 Evening                91 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+🌞 Morning                68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+🌆 Daytime                128 commits         ██████████░░░░░░░░░░░░░░░   41.83 % 
+🌃 Evening                91 commits          ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Tuesday                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Wednesday                74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Thursday                 84 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Monday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Tuesday                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Wednesday                74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+Thursday                 84 commits          ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 
 
@@ -170,24 +172,46 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-CSS                      7 hrs               ███████████░░░░░░░░░░░░░░   42.02 % 
-HTML                     3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Markdown                 2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-TypeScript               2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+CSS                      7 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.76 % 
+HTML                     4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Markdown                 3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+TypeScript               2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 54 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                6 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-ra-menapp                4 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-myportfolio              2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-git                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Unknown Project          59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+portfolio                6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
+ra-menapp                4 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+myportfolio              2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+git                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Unknown Project          59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 💻 Operating System: 
-Mac                      16 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 54 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 mins (0.34%)
+
+✍️ 0 lines written by AI, 4,140 lines written by hand (0.0% AI-written)
+
+🔤 22,815 Input Tokens, 499 Output Tokens
+
+💵 $0.13 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 51 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -205,7 +229,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:43:14 UTC
+ Last Updated on 27/07/2026 20:04:10 UTC
 <!--END_SECTION:waka-->
 
 
