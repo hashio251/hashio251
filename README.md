@@ -7,7 +7,7 @@ Web開発やデザインを中心に、Webサイト制作やプログラミン�
 
 I focus on web development and design, engaging in activities such as website creation, learning programming, and producing projects.
 
-<img src="./readme.png" />
+<!-- <img src="./readme.png" /> -->
 
 ## 📁 Repository Categories
 
