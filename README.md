@@ -128,7 +128,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2013%20mins-blue?style=flat)
 
@@ -138,32 +138,32 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 537 Contributions in the Year 2026
+> 🏆 546 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                72 commits          █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-🌆 Daytime                141 commits         ██████████░░░░░░░░░░░░░░░   40.63 % 
-🌃 Evening                115 commits         ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+🌞 Morning                72 commits          █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+🌆 Daytime                145 commits         ██████████░░░░░░░░░░░░░░░   40.96 % 
+🌃 Evening                118 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Wednesday                77 commits          ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Thursday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Friday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Monday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Wednesday                84 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Thursday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Friday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 ```
 
 
@@ -173,33 +173,33 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-HTML                     14 hrs 17 mins      ██████████████░░░░░░░░░░░   55.71 % 
-Java                     4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-CSS                      3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-JavaScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+HTML                     15 hrs 55 mins      ███████████████░░░░░░░░░░   59.47 % 
+CSS                      4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Java                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+JavaScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 14 mins      █████████████████████░░░░   82.75 % 
-Eclipse                  4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+VS Code                  23 hrs 50 mins      ██████████████████████░░░   89.03 % 
+Eclipse                  2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 
 🐱‍💻 Projects: 
-Unknown Project          16 hrs 19 mins      ████████████████░░░░░░░░░   63.62 % 
-00_other_practice-java   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-RPG-app_2026-07-28       1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-portfolio                1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-monster-game             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Unknown Project          18 hrs 14 mins      █████████████████░░░░░░░░   68.09 % 
+00_other_practice-java   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+00_other_practice-js     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+portfolio                1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+monster-game             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 Operating System: 
-Mac                      25 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (2.8%)
+⏱ AI Coding Time: 43 mins (2.69%)
 
-✍️ 0 lines written by AI, 3,550 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,114 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -218,8 +218,8 @@ Mac                      25 hrs 39 mins      ███████████�
 
 ```text
 Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
 Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
@@ -230,7 +230,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:08:53 UTC
+ Last Updated on 05/08/2026 20:07:20 UTC
 <!--END_SECTION:waka-->
 
 
