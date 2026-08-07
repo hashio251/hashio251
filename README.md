@@ -128,17 +128,13 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2020%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 546 Contributions in the Year 2026
+> 🏆 579 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -149,21 +145,21 @@ Repositories on GitHub are categorized by number according to the content of the
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                72 commits          █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-🌆 Daytime                145 commits         ██████████░░░░░░░░░░░░░░░   40.96 % 
-🌃 Evening                118 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+🌞 Morning                83 commits          █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+🌆 Daytime                161 commits         ██████████░░░░░░░░░░░░░░░   41.60 % 
+🌃 Evening                124 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
+🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Wednesday                84 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Thursday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Friday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Monday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Wednesday                84 commits          █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Thursday                 120 commits         ████████░░░░░░░░░░░░░░░░░   31.01 % 
+Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 
@@ -173,33 +169,33 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-HTML                     15 hrs 55 mins      ███████████████░░░░░░░░░░   59.47 % 
-CSS                      4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Java                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-JavaScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+HTML                     13 hrs 59 mins      █████████████░░░░░░░░░░░░   51.73 % 
+CSS                      4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+JavaScript               3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Java                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 50 mins      ██████████████████████░░░   89.03 % 
-Eclipse                  2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+VS Code                  24 hrs 7 mins       ██████████████████████░░░   89.15 % 
+Eclipse                  2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 
 🐱‍💻 Projects: 
-Unknown Project          18 hrs 14 mins      █████████████████░░░░░░░░   68.09 % 
-00_other_practice-java   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-00_other_practice-js     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-portfolio                1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-monster-game             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Unknown Project          14 hrs 35 mins      █████████████░░░░░░░░░░░░   53.94 % 
+00_other_practice-js     4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+portfolio                2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+00_other_practice-java   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+monster-game             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Mac                      26 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (2.69%)
+⏱ AI Coding Time: 43 mins (2.66%)
 
-✍️ 0 lines written by AI, 5,114 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,561 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -218,8 +214,8 @@ Mac                      26 hrs 46 mins      ███████████�
 
 ```text
 Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
@@ -230,7 +226,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:07:20 UTC
+ Last Updated on 07/08/2026 00:23:17 UTC
 <!--END_SECTION:waka-->
 
 
