@@ -173,45 +173,31 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-HTML                     13 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.95 % 
-CSS                      5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-JavaScript               4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Java                     2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+HTML                     13 hrs 18 mins      ██████████████░░░░░░░░░░░   56.11 % 
+CSS                      5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+JavaScript               4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Java                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 37 mins      ██████████████████████░░░   89.49 % 
-Eclipse                  2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+VS Code                  23 hrs 30 mins      █████████████████████████   99.14 % 
+Eclipse                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-Unknown Project          13 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.63 % 
-00_other_practice-js     7 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-00_other_practice-java   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-portfolio                1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-monster-game             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Unknown Project          13 hrs 22 mins      ██████████████░░░░░░░░░░░   56.42 % 
+00_other_practice-js     7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+portfolio                1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+00_front-recipe-collectio49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+git                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Mac                      27 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (2.62%)
-
-✍️ 0 lines written by AI, 6,331 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 14 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 129 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -231,7 +217,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:07:51 UTC
+ Last Updated on 09/08/2026 19:11:23 UTC
 <!--END_SECTION:waka-->
 
 
