@@ -138,7 +138,7 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 623 Contributions in the Year 2026
+> 🏆 633 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -149,21 +149,21 @@ Repositories on GitHub are categorized by number according to the content of the
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                88 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌆 Daytime                186 commits         ███████████░░░░░░░░░░░░░░   43.76 % 
-🌃 Evening                131 commits         ████████░░░░░░░░░░░░░░░░░   30.82 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌞 Morning                89 commits          █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌆 Daytime                194 commits         ███████████░░░░░░░░░░░░░░   44.60 % 
+🌃 Evening                132 commits         ████████░░░░░░░░░░░░░░░░░   30.34 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Tuesday                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Wednesday                84 commits          █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Thursday                 120 commits         ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-Friday                   77 commits          █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Saturday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Monday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Tuesday                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Wednesday                94 commits          █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Thursday                 120 commits         ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Friday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Saturday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 
 
@@ -173,24 +173,24 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-HTML                     10 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.36 % 
-CSS                      5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-JavaScript               4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-PHP                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JavaScript               9 hrs 20 mins       █████████████░░░░░░░░░░░░   53.48 % 
+HTML                     5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
+CSS                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+PHP                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 10 mins      ████████████░░░░░░░░░░░░░   47.99 % 
-00_other_practice-js     7 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
-portfolio                2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-00_front-recipe-collectio49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-git                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+00_other_practice-js     9 hrs 30 mins       ██████████████░░░░░░░░░░░   54.35 % 
+Unknown Project          2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+portfolio                2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+git                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+00_front-recipe-collectio49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 💻 Operating System: 
-Mac                      21 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -216,7 +216,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:34:11 UTC
+ Last Updated on 12/08/2026 19:36:32 UTC
 <!--END_SECTION:waka-->
 
 
