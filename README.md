@@ -22,6 +22,7 @@ Repositories on GitHub are categorized by number according to the content of the
 | **02** | Small Works | 小作品・実験的な制作物・コレクション<br>Small-scale works, experimental projects, and collections                          |
 | **03** | Python App  | Pythonを使って作成したアプリなど（Django、Flaskなど）<br>Create app for Python(To use Django, Flask)                        |
 | **04** | JavaScript App  | JSを使って作成したアプリなど<br>Create app for JavaScript(To use Vanilla.js, React, Next.js)                        |
+| **05** | Java App  | Javaを使って作成したアプリなど<br>Create app for Java(To use SpringBoot)                        |
 
 
 ---
