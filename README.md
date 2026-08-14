@@ -38,7 +38,7 @@ Repositories on GitHub are categorized by number according to the content of the
 * p5.js
 * OpenProcessing
 * React(*)
-* Next.js
+* Next.js(*)
 
 
 ### Backend / Programming
