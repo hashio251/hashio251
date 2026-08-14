@@ -322,7 +322,7 @@ Web開発・デザイン・プログラミング作品をまとめたポート�
 
 ### 📺 UI About Like a TV
 
-[🔗 View Project](https://hashio251.github.io/02_ui-about-like-a-tv/)
+[🔗 View Project](https://hashio251.github.io/02_smallworks_ui-about-like-a-tv/)
 
 レトロなテレビをモチーフに、画面や操作部分をイメージして制作したUI作品です。
 
