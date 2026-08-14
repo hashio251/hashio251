@@ -30,7 +30,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 🛠 Technologies & Skills & Tools --> (*) is learning mark
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,p5js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,p5js,react,nextjs)](https://skillicons.dev)
 
 * HTML
 * CSS
@@ -38,6 +38,7 @@ Repositories on GitHub are categorized by number according to the content of the
 * p5.js
 * OpenProcessing
 * React(*)
+* Next.js
 
 
 ### Backend / Programming
