@@ -176,24 +176,24 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               7 hrs 1 min         ████████████████░░░░░░░░░   64.52 % 
-HTML                     2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JavaScript               7 hrs               ████████████████░░░░░░░░░   64.47 % 
+HTML                     2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 PHP                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-00_other_practice-js     3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
-git                      1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-02_calculator            1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-02_smallworks_ramen-robot1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Unknown Project          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+00_other_practice-js     3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
+git                      1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+02_calculator            1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+02_smallworks_ramen-robot1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Unknown Project          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 💻 Operating System: 
-Mac                      10 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -201,7 +201,7 @@ Mac                      10 hrs 53 mins      ███████████�
 ```text
 ⏱ AI Coding Time: 2 mins (0.37%)
 
-✍️ 0 lines written by AI, 697 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 695 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -233,7 +233,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:56:11 UTC
+ Last Updated on 16/08/2026 18:55:25 UTC
 <!--END_SECTION:waka-->
 
 
