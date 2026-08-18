@@ -141,7 +141,7 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 670 Contributions in the Year 2026
+> 🏆 671 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -152,21 +152,21 @@ Repositories on GitHub are categorized by number according to the content of the
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-🌆 Daytime                212 commits         ████████████░░░░░░░░░░░░░   46.39 % 
-🌃 Evening                134 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+🌞 Morning                91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+🌆 Daytime                212 commits         ████████████░░░░░░░░░░░░░   46.29 % 
+🌃 Evening                135 commits         ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Tuesday                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Wednesday                94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Thursday                 127 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Friday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Saturday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Sunday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Monday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Tuesday                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Wednesday                94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Thursday                 127 commits         ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+Friday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Saturday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Sunday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 ```
 
 
@@ -176,32 +176,32 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               7 hrs               ████████████████░░░░░░░░░   64.47 % 
-HTML                     2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-PHP                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JavaScript               6 hrs 43 mins       ███████████████████░░░░░░   74.83 % 
+HTML                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-00_other_practice-js     3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
-git                      1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-02_calculator            1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-02_smallworks_ramen-robot1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Unknown Project          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+00_other_practice-js     3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
+02_calculator            1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+git                      1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+02_smallworks_ramen-robot1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+ra-menapp                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 💻 Operating System: 
-Mac                      10 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (0.37%)
+⏱ AI Coding Time: 2 mins (0.44%)
 
-✍️ 0 lines written by AI, 695 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 636 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -233,7 +233,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:07:35 UTC
+ Last Updated on 18/08/2026 19:07:08 UTC
 <!--END_SECTION:waka-->
 
 
