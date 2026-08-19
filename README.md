@@ -131,7 +131,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2015%20mins-blue?style=flat)
 
@@ -141,7 +141,7 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 671 Contributions in the Year 2026
+> 🏆 673 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -152,21 +152,21 @@ Repositories on GitHub are categorized by number according to the content of the
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-🌆 Daytime                212 commits         ████████████░░░░░░░░░░░░░   46.29 % 
-🌃 Evening                135 commits         ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+🌞 Morning                91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+🌆 Daytime                214 commits         ████████████░░░░░░░░░░░░░   46.52 % 
+🌃 Evening                135 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Tuesday                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Wednesday                94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Thursday                 127 commits         ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Friday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Saturday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Sunday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Monday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Tuesday                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Wednesday                96 commits          █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Thursday                 127 commits         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Friday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Saturday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Sunday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 
 
@@ -176,24 +176,24 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               6 hrs 43 mins       ███████████████████░░░░░░   74.83 % 
-HTML                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+JavaScript               6 hrs 45 mins       ███████████████████░░░░░░   74.91 % 
+HTML                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-00_other_practice-js     3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
-02_calculator            1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-git                      1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-02_smallworks_ramen-robot1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-ra-menapp                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+00_other_practice-js     3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.52 % 
+02_calculator            1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+git                      1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+02_smallworks_ramen-robot1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+ra-menapp                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 💻 Operating System: 
-Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -201,7 +201,7 @@ Mac                      8 hrs 59 mins       ███████████�
 ```text
 ⏱ AI Coding Time: 2 mins (0.44%)
 
-✍️ 0 lines written by AI, 636 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 650 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -219,10 +219,10 @@ Mac                      8 hrs 59 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
 Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
 HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
@@ -233,7 +233,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:07:08 UTC
+ Last Updated on 19/08/2026 19:03:12 UTC
 <!--END_SECTION:waka-->
 
 
