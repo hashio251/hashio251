@@ -141,7 +141,7 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 673 Contributions in the Year 2026
+> 🏆 682 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,25 +176,25 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               1 hr 11 mins        ███████████░░░░░░░░░░░░░░   44.58 % 
-TypeScript               26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-CSS                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-SQL                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JavaScript               1 hr 3 mins         ████████████░░░░░░░░░░░░░   47.19 % 
+TypeScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+CSS                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+SQL                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   99.29 % 
-Eclipse                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+VS Code                  2 hrs 13 mins       █████████████████████████   99.15 % 
+Eclipse                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-00_other_practice-js     1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   39.38 % 
-tyutai-kun               49 mins             ████████░░░░░░░░░░░░░░░░░   30.81 % 
-02_smallworks_ramen-robot21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-portfolio                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-00_tyutai-kun            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+00_other_practice-js     1 hr 3 mins         ████████████░░░░░░░░░░░░░   47.23 % 
+tyutai-kun               1 hr                ███████████░░░░░░░░░░░░░░   44.72 % 
+00_tyutai-kun            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+01_myportfolio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+00_other_practice-java   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Mac                      2 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -220,7 +220,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:10:46 UTC
+ Last Updated on 21/08/2026 19:06:45 UTC
 <!--END_SECTION:waka-->
 
 
