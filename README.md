@@ -131,7 +131,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2015%20mins-blue?style=flat)
 
@@ -141,7 +141,7 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 682 Contributions in the Year 2026
+> 🏆 727 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,31 +176,48 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               1 hr 3 mins         ████████████░░░░░░░░░░░░░   47.19 % 
-TypeScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-CSS                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-SQL                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+CSS                      4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.87 % 
+TypeScript               4 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
+JavaScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   99.15 % 
-Eclipse                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+VS Code                  7 hrs 13 mins       █████████████████░░░░░░░░   67.55 % 
+Codex Vscode             3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
+Eclipse                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-00_other_practice-js     1 hr 3 mins         ████████████░░░░░░░░░░░░░   47.23 % 
-tyutai-kun               1 hr                ███████████░░░░░░░░░░░░░░   44.72 % 
-00_tyutai-kun            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-01_myportfolio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-00_other_practice-java   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+tyutai-kun               9 hrs 20 mins       ██████████████████████░░░   87.30 % 
+00_other_practice-js     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+00_tyutai-kun            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+01_myportfolio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+00_other_practice-java   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 13 mins (58.21%)
+
+✍️ 1,579 lines written by AI, 452 lines written by hand (77.74% AI-written)
+
+🔤 933,469 Input Tokens, 134,054 Output Tokens
+
+💵 $37.14 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 52 AI Prompts
+
+GPT                      1,699 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 77.74% of written lines came from AI
+📝 Concise Prompter — average 353 characters per prompt
+🔁 Iterative Prompter — average 52 prompts per session
+🚀 High AI Trust — 24.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -220,7 +237,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:06:45 UTC
+ Last Updated on 22/08/2026 18:57:45 UTC
 <!--END_SECTION:waka-->
 
 
