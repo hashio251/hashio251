@@ -131,9 +131,9 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -141,7 +141,7 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 727 Contributions in the Year 2026
+> 🏆 748 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,48 +176,48 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-CSS                      4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.87 % 
-TypeScript               4 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
-JavaScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+CSS                      5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
+TypeScript               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
+JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+SQL                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 13 mins       █████████████████░░░░░░░░   67.55 % 
-Codex Vscode             3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
-Eclipse                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+VS Code                  8 hrs 32 mins       ████████████████░░░░░░░░░   65.29 % 
+Codex Vscode             4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
+Eclipse                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-tyutai-kun               9 hrs 20 mins       ██████████████████████░░░   87.30 % 
-00_other_practice-js     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-00_tyutai-kun            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-01_myportfolio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-00_other_practice-java   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+tyutai-kun               11 hrs 43 mins      ██████████████████████░░░   89.62 % 
+00_other_practice-js     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+00_tyutai-kun            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+01_myportfolio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+00_other_practice-java   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Mac                      10 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 13 mins (58.21%)
+⏱ AI Coding Time: 8 hrs 2 mins (61.49%)
 
-✍️ 1,579 lines written by AI, 452 lines written by hand (77.74% AI-written)
+✍️ 1,916 lines written by AI, 676 lines written by hand (73.92% AI-written)
 
-🔤 933,469 Input Tokens, 134,054 Output Tokens
+🔤 1,424,711 Input Tokens, 188,388 Output Tokens
 
-💵 $37.14 Estimated AI Cost This Week
+💵 $49.83 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 52 AI Prompts
+🧠 3 AI Sessions, 75 AI Prompts
 
-GPT                      1,699 lines         █████████████████████████   100.00 % 
+GPT                      2,047 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.74% of written lines came from AI
-📝 Concise Prompter — average 353 characters per prompt
-🔁 Iterative Prompter — average 52 prompts per session
-🚀 High AI Trust — 24.56% of changed lines were hand-edited
+🤖 AI-Driven — 73.92% of written lines came from AI
+📝 Concise Prompter — average 329 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
+🚀 High AI Trust — 31.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -237,7 +237,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:57:45 UTC
+ Last Updated on 23/08/2026 18:57:02 UTC
 <!--END_SECTION:waka-->
 
 
