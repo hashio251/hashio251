@@ -131,9 +131,9 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -176,32 +176,32 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-CSS                      5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
-TypeScript               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
-JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-SQL                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+CSS                      5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.17 % 
+TypeScript               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
+JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+SQL                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 32 mins       ████████████████░░░░░░░░░   65.29 % 
-Codex Vscode             4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
-Eclipse                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+VS Code                  8 hrs 32 mins       ████████████████░░░░░░░░░   64.83 % 
+Codex Vscode             4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.13 % 
+Eclipse                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🐱‍💻 Projects: 
-tyutai-kun               11 hrs 43 mins      ██████████████████████░░░   89.62 % 
-00_other_practice-js     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-00_tyutai-kun            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-01_myportfolio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-00_other_practice-java   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+tyutai-kun               11 hrs 43 mins      ██████████████████████░░░   88.98 % 
+00_other_practice-js     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+00_other_practice-java   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+00_tyutai-kun            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+01_myportfolio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 2 mins (61.49%)
+⏱ AI Coding Time: 8 hrs 2 mins (61.05%)
 
 ✍️ 1,916 lines written by AI, 676 lines written by hand (73.92% AI-written)
 
@@ -237,7 +237,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:57:02 UTC
+ Last Updated on 24/08/2026 19:09:58 UTC
 <!--END_SECTION:waka-->
 
 
