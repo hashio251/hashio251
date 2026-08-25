@@ -131,7 +131,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2018%20mins-blue?style=flat)
 
@@ -141,7 +141,7 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 748 Contributions in the Year 2026
+> 🏆 754 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,34 +176,34 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-CSS                      5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.17 % 
-TypeScript               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
-JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-SQL                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+CSS                      5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.38 % 
+TypeScript               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   38.08 % 
+JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 32 mins       ████████████████░░░░░░░░░   64.83 % 
-Codex Vscode             4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.13 % 
-Eclipse                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+VS Code                  9 hrs 25 mins       █████████████████░░░░░░░░   67.04 % 
+Codex Vscode             4 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Eclipse                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🐱‍💻 Projects: 
-tyutai-kun               11 hrs 43 mins      ██████████████████████░░░   88.98 % 
-00_other_practice-js     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-00_other_practice-java   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-00_tyutai-kun            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-01_myportfolio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+tyutai-kun               11 hrs 43 mins      █████████████████████░░░░   83.38 % 
+00_other_practice-js     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Review-each-other-s-proje55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+00_other_practice-java   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+00_tyutai-kun            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Mac                      13 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 2 mins (61.05%)
+⏱ AI Coding Time: 8 hrs 2 mins (57.2%)
 
-✍️ 1,916 lines written by AI, 676 lines written by hand (73.92% AI-written)
+✍️ 1,916 lines written by AI, 1,031 lines written by hand (65.02% AI-written)
 
 🔤 1,424,711 Input Tokens, 188,388 Output Tokens
 
@@ -214,10 +214,10 @@ Mac                      13 hrs 10 mins      ███████████�
 GPT                      2,047 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.92% of written lines came from AI
+⚖️ Balanced with AI — 65.02% of written lines came from AI
 📝 Concise Prompter — average 329 characters per prompt
 🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 31.45% of changed lines were hand-edited
+🚀 High AI Trust — 39.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -237,7 +237,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:09:58 UTC
+ Last Updated on 25/08/2026 19:08:56 UTC
 <!--END_SECTION:waka-->
 
 
