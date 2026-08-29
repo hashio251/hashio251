@@ -176,48 +176,47 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-CSS                      5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
-TypeScript               4 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.48 % 
-Markdown                 1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Java                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Markdown                 1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   38.17 % 
+CSS                      1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+TypeScript               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Python                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 18 mins       ████████████████░░░░░░░░░   64.25 % 
-Codex Vscode             4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.80 % 
-Eclipse                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+VS Code                  4 hrs 1 min         ███████████████████░░░░░░   77.52 % 
+Codex Vscode             1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Eclipse                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🐱‍💻 Projects: 
-tyutai-kun               10 hrs 43 mins      █████████████████████░░░░   82.95 % 
-Review-each-other-s-proje1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-00_other_practice-java   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-00_other_practice-js     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-01_myportfolio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+tyutai-kun               2 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.87 % 
+Review-each-other-s-proje1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   38.18 % 
+subject                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+00_other_practice-java   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-Mac                      12 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      5 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 2 mins (62.24%)
+⏱ AI Coding Time: 1 hr 49 mins (34.94%)
 
-✍️ 1,916 lines written by AI, 1,824 lines written by hand (51.23% AI-written)
+✍️ 337 lines written by AI, 1,455 lines written by hand (18.81% AI-written)
 
-🔤 1,424,711 Input Tokens, 188,388 Output Tokens
+🔤 491,242 Input Tokens, 54,334 Output Tokens
 
-💵 $49.83 Estimated AI Cost This Week
+💵 $20.66 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 75 AI Prompts
+🧠 2 AI Sessions, 23 AI Prompts
 
-GPT                      2,047 lines         █████████████████████████   100.00 % 
+GPT                      348 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.23% of written lines came from AI
-📝 Concise Prompter — average 329 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🔍 Hands-On Reviewer — 54.18% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 18.81% of written lines came from AI
+📝 Concise Prompter — average 275 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 85.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -237,7 +236,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:50:10 UTC
+ Last Updated on 29/08/2026 21:04:18 UTC
 <!--END_SECTION:waka-->
 
 
