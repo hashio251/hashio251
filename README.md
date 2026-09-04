@@ -176,25 +176,25 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-HTML                     4 hrs 4 mins        ███████████████░░░░░░░░░░   61.03 % 
-CSS                      1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Java                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+HTML                     4 hrs 4 mins        ███████████████░░░░░░░░░░   58.07 % 
+CSS                      1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Java                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       ██████████████████████░░░   88.60 % 
-Eclipse                  45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+VS Code                  6 hrs 15 mins       ██████████████████████░░░   89.15 % 
+Eclipse                  45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 
 🐱‍💻 Projects: 
-_test                    3 hrs 28 mins       █████████████░░░░░░░░░░░░   51.96 % 
-subject                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Unknown Project          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-javabasic-A              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Review-each-other-s-proje26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+_test                    3 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.43 % 
+subject                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Unknown Project          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Review-each-other-s-proje36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+javabasic-A              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 💻 Operating System: 
-Mac                      6 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -220,7 +220,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:12:58 UTC
+ Last Updated on 04/09/2026 20:55:13 UTC
 <!--END_SECTION:waka-->
 
 
