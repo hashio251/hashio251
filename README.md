@@ -132,7 +132,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2018%20mins-blue?style=flat)
 
@@ -177,25 +177,25 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-CSS                      8 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.76 % 
-Java                     3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-PHP                      2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-JavaScript               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-HTML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+CSS                      8 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.30 % 
+Java                     3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+PHP                      2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+HTML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+JavaScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 25 mins      ████████████████████░░░░░   80.31 % 
-Eclipse                  3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+VS Code                  13 hrs 52 mins      ████████████████████░░░░░   80.11 % 
+Eclipse                  3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
-portfolio                5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-05_javaApp_stats-house-ex3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-js-practice              1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-00_other_practice-java   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Unknown Project          7 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.62 % 
+portfolio                5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+05_javaApp_stats-house-ex2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+00_other_practice-java   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+02_ui-about-like-a-tv    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-Mac                      19 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -221,7 +221,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:06:02 UTC
+ Last Updated on 19/09/2026 20:54:20 UTC
 <!--END_SECTION:waka-->
 
 
