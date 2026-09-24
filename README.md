@@ -314,6 +314,7 @@ Web開発・デザイン・プログラミング作品をまとめたポート�
 [🔗 View Project](https://hashio251.github.io/01_website_performance-artthinking-/)
 
 学校の授業「アートシンキング」で、「THIS IS ME」をテーマに制作したWeb作品です。
+※AI使用あり
 
 **Tech Stack:** HTML / CSS / JavaScript
 
@@ -324,6 +325,7 @@ Web開発・デザイン・プログラミング作品をまとめたポート�
 [🔗 View Project](https://hashio251.github.io/01_website_presentation-artthinking-/)
 
 学校の授業「アートシンキング」で制作したWeb作品です。ECサイトでの購買が主流となった現在をもとに、5年後のZOZOTOWNをテーマとして表現しました。
+※AI使用あり
 
 **Tech Stack:** HTML / CSS / Tailwind CSS
 
@@ -334,6 +336,7 @@ Web開発・デザイン・プログラミング作品をまとめたポート�
 [🔗 View Project](https://hashio251.github.io/01_website_nailsalon/)
 
 友人のネイルサロンを想定して制作したWebサイトです。
+※AI使用あり
 
 **Tech Stack:** HTML / CSS / JavaScript
 
