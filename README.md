@@ -257,6 +257,37 @@ I am also learning about version control and team development using GitHub, as w
 
 ---
 
+## 👩‍💻 Team Development
+
+#### Habito　2026/02
+
+Django を使用したチーム開発プロジェクト。
+
+- アプリの企画・コンセプト設計
+- フロントエンドのUI・画面実装を担当
+- 既存デザインをもとに、PC版からSP対応まで一から実装（AI未使用）
+- CSSによるレスポンシブ対応・レイアウト調整
+- UXを考慮したデザインの微調整・最終確認
+- GitHubを使用したチーム共同開発
+
+Repository: Public  
+https://github.com/Tech-Jam-KDG-2026-Winter/Team-8-Django
+
+
+#### tyutai-kun　2026/07 - 08
+
+Next.js / TypeScript を使用したチーム開発プロジェクト。
+
+- フロントエンドのUI・画面実装を担当
+- 既存UIの改善・調整
+- CSSによるレイアウト・デザインの微調整
+- GitHubを使用したチーム共同開発
+
+Repository: Private  
+https://github.com/manabeai/tyutai-kun
+
+---
+
 ## 📌 Portfolio
 
 GitHub Pagesやポートフォリオサイトを通して、制作したWebサイトや作品を公開しています。
