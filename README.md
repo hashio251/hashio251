@@ -239,8 +239,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 ## 🎓 Certifications
 
-- 情報セキュリティマネジメント試験 — 2025年5月取得
-  - Information Security Management Examination — Obtained in May, 2025
+- 情報セキュリティマネジメント試験 — 2026年5月取得
+  - Information Security Management Examination — Obtained in May, 2026
 
 ---
 
