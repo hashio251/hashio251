@@ -132,7 +132,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2018%20mins-blue?style=flat)
 
@@ -177,22 +177,23 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     15 hrs 10 mins      ████████████████████████░   97.97 % 
-HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Java                     16 hrs 22 mins      ████████████████████████░   95.98 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Image (png)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Eclipse                  15 hrs 12 mins      █████████████████████████   98.21 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Eclipse                  16 hrs 47 mins      █████████████████████████   98.37 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-05_javaApp_stats-house-ex9 hrs 36 mins       ████████████████░░░░░░░░░   62.05 % 
-javabasic-A              5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
-01_myportfolio           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+05_javaApp_stats-house-ex10 hrs 59 mins      ████████████████░░░░░░░░░   64.46 % 
+javabasic-A              5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.92 % 
+01_myportfolio           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Mac                      15 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -218,7 +219,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:30:59 UTC
+ Last Updated on 28/09/2026 23:26:29 UTC
 <!--END_SECTION:waka-->
 
 
