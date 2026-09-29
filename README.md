@@ -239,6 +239,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 - 情報セキュリティマネジメント試験 — 2026年5月取得
   - Information Security Management Examination — Obtained in May, 2026
+- 3級 ウェブデザイン技能士 — 2026年9月取得
+  - Grade 3 Web Design Technician — Obtained in September, 2026
 
 ---
 
