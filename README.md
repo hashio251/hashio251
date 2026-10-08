@@ -132,7 +132,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2018%20mins-blue?style=flat)
 
@@ -142,7 +142,7 @@ Repositories on GitHub are categorized by number according to the content of the
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,042 Contributions in the Year 2026
+> 🏆 1,055 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -153,21 +153,21 @@ Repositories on GitHub are categorized by number according to the content of the
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                152 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-🌆 Daytime                395 commits         ████████████░░░░░░░░░░░░░   46.64 % 
-🌃 Evening                221 commits         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌙 Night                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+🌞 Morning                155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+🌆 Daytime                403 commits         ████████████░░░░░░░░░░░░░   46.97 % 
+🌃 Evening                221 commits         ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+🌙 Night                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Tuesday                  106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Wednesday                123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Thursday                 238 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-Friday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Tuesday                  106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Wednesday                123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Thursday                 249 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+Friday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 
 
@@ -177,31 +177,47 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-HTML                     11 hrs 27 mins      █████████████████░░░░░░░░   68.16 % 
-CSS                      2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-JavaScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Java                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-PHP                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+HTML                     10 hrs 4 mins       ███████████████░░░░░░░░░░   59.27 % 
+JavaScript               2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+CSS                      2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Java                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 39 mins      ███████████████████████░░   93.18 % 
-Eclipse                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+VS Code                  15 hrs 51 mins      ███████████████████████░░   93.26 % 
+Eclipse                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.06 % 
-portfolio                4 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-04_js_colorcode-map      2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-05_javaApp_stats-house-ex1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-01_myportfolio           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Unknown Project          6 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.61 % 
+04_js_colorcode-map      6 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+portfolio                1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+05_javaApp_stats-house-ex1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+01_myportfolio           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 💻 Operating System: 
-Mac                      16 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 37 mins (9.57%)
+
+✍️ 0 lines written by AI, 2,153 lines written by hand (0.0% AI-written)
+
+🔤 612,767 Input Tokens, 7,536 Output Tokens
+
+💵 $1.95 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 23 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 165 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +237,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:15:28 UTC
+ Last Updated on 08/10/2026 23:30:25 UTC
 <!--END_SECTION:waka-->
 
 
