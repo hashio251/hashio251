@@ -132,7 +132,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2055%20mins-blue?style=flat)
 
@@ -177,33 +177,32 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-HTML                     14 hrs 39 mins      █████████████████░░░░░░░░   69.98 % 
-CSS                      2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-JavaScript               2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-PHP                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+HTML                     13 hrs 53 mins      █████████████████░░░░░░░░   69.97 % 
+JavaScript               2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+CSS                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+PHP                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 49 mins      █████████████████████████   99.42 % 
-Eclipse                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+VS Code                  19 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 hrs 20 mins      ███████████████░░░░░░░░░░   58.93 % 
-04_js_colorcode-map      6 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-01_myportfolio           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-portfolio                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-99_portfolio             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Unknown Project          12 hrs 21 mins      ████████████████░░░░░░░░░   62.30 % 
+04_js_colorcode-map      6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.66 % 
+portfolio                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+99_portfolio             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+13                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Mac                      20 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 37 mins (7.77%)
+⏱ AI Coding Time: 1 hr 37 mins (8.2%)
 
-✍️ 0 lines written by AI, 4,791 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,657 lines written by hand (0.0% AI-written)
 
 🔤 612,767 Input Tokens, 7,536 Output Tokens
 
@@ -237,7 +236,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:55:50 UTC
+ Last Updated on 11/10/2026 22:15:21 UTC
 <!--END_SECTION:waka-->
 
 
