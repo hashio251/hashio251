@@ -284,8 +284,7 @@ Next.js / TypeScript を使用したチーム開発プロジェクト。
 - CSSによるレイアウト・デザインの微調整
 - GitHubを使用したチーム共同開発
 
-Repository: Private  
-https://github.com/manabeai/tyutai-kun
+https://odhackathon.metro.tokyo.lg.jp/collection/6632812913413127338/?year=2026
 
 ---
 
