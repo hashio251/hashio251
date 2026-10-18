@@ -132,7 +132,7 @@ Repositories on GitHub are categorized by number according to the content of the
 ## 💻 Development Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2055%20mins-blue?style=flat)
 
@@ -191,6 +191,7 @@ Unknown Project          11 hrs 22 mins      ███████████�
 99_portfolio             5 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
 04_js_colorcode-map      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 typescript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+01_myportfolio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Mac                      17 hrs 20 mins      █████████████████████████   100.00 % 
@@ -219,7 +220,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:48:35 UTC
+ Last Updated on 18/10/2026 20:57:36 UTC
 <!--END_SECTION:waka-->
 
 
