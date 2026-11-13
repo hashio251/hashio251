@@ -23,7 +23,7 @@ Repositories on GitHub are categorized by number according to the content of the
 | **03** | Python App  | Pythonを使って作成したアプリなど（Django、Flaskなど）<br>Create app for Python(To use Django, Flask)                        |
 | **04** | JavaScript App  | JSを使って作成したアプリなど<br>Create app for JavaScript(To use Vanilla.js, React, Next.js)                        |
 | **05** | Java App  | Javaを使って作成したアプリなど<br>Create app for Java(To use SpringBoot)                        |
-| **06** | Java App  | GASを使って作成した自動化など<br>Automations created using GAS, etc.                      |
+| **06** | GAS  | GASを使って作成した自動化など<br>Automations created using GAS, etc.                      |
 
 
 ---
