@@ -1,0 +1,365 @@
+<!-- テーマのベース背景色 -->
+<!-- &theme=calm&animation=draw&duration=3 -->
+
+# 👋 Hi, I'm Hashio
+
+Web開発やデザインを中心に、Webサイト制作やプログラミングの学習、作品制作に取り組んでいます。
+
+I focus on web development and design, engaging in activities such as website creation, learning programming, and producing projects.
+
+<!-- <img src="./readme.png" /> -->
+
+## 📁 Repository Categories
+
+GitHub上のリポジトリは、制作内容ごとに番号で分類しています。
+
+Repositories on GitHub are categorized by number according to the content of the work.
+
+| No.    | Category    | Description                                                                                              |
+| ------ | ----------- | -------------------------------------------------------------------------------------------------------- |
+| **00** | Practice    | プログラミングやWeb制作の学習・練習用<br>For learning and practicing programming and web development                      |
+| **01** | Websites    | GitHub Pagesなどで公開しているWebサイト・Web制作物<br>Websites and web projects published on platforms like GitHub Pages |
+| **02** | Small Works | 小作品・実験的な制作物・コレクション<br>Small-scale works, experimental projects, and collections                          |
+| **03** | Python App  | Pythonを使って作成したアプリなど（Django、Flaskなど）<br>Create app for Python(To use Django, Flask)                        |
+| **04** | JavaScript App  | JSを使って作成したアプリなど<br>Create app for JavaScript(To use Vanilla.js, React, Next.js)                        |
+| **05** | Java App  | Javaを使って作成したアプリなど<br>Create app for Java(To use SpringBoot)                        |
+| **06** | GAS  | GASを使って作成した自動化など<br>Automations created using GAS, etc.                      |
+
+
+---
+
+## 🛠 Technologies & Skills & Tools --> (*) is learning mark
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,p5js,react,nextjs)](https://skillicons.dev)
+
+* HTML
+* CSS
+* JavaScript(*)
+* p5.js
+* OpenProcessing
+* React(*)
+* Next.js(*)
+
+
+### Backend / Programming
+[![My Skills](https://skillicons.dev/icons?i=php,py,ts,java,django,flask)](https://skillicons.dev)
+
+* PHP(*)
+* Python
+* TypeScript(*)
+* Java(*)
+* Django
+* Flask
+* Pandas
+
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+* MySQL
+* PostgreSQL(*)
+
+### CMS
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+* WordPress
+
+### Server / Hosting / DNS
+
+* Docker(*)
+* さくらインターネット
+* お名前.com
+
+### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github)](https://skillicons.dev)
+
+* Visual Studio Code
+* Eclipse
+* Git
+* GitHub
+* GitHub Pages
+* FileZilla
+
+### Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,debian)](https://skillicons.dev)
+* Windows
+* macOS
+* Linux
+* Ubuntu
+* Debian
+
+### Shell / Command Line
+[![My Skills](https://skillicons.dev/icons?i=powershell,bash)](https://skillicons.dev)
+- PowerShell
+- Bash
+- Terminal
+
+
+### Design Tools
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,ae,xd,figma,blender)](https://skillicons.dev)
+* Adobe Photoshop
+* Adobe Lightroom
+* Adobe Fresco
+* Adobe Illustrator
+* Adobe Premiere
+* Adobe After Effects
+* Adobe XD
+* Figma
+* Blender(*)
+
+
+---
+
+## 📊 GitHub Activity
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=hashio251&theme=calm&animation=draw&duration=3)](https://github.com/stats-organization/github-stats-extended)
+
+
+---
+
+## 📈 GitHub Statistics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashio251&theme=calm&animation=draw&duration=3)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashio251&theme=calm&animation=draw&duration=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hashio251&theme=calm&animation=draw&duration=3)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashio251&theme=calm&animation=draw&duration=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashio251&theme=calm&animation=draw&duration=3&utcOffset=0)
+
+
+---
+
+
+## 💻 Development Activity
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2032%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2055%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,080 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                158 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+🌆 Daytime                415 commits         ████████████░░░░░░░░░░░░░   47.27 % 
+🌃 Evening                225 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+🌙 Night                  80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Tuesday                  112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Wednesday                126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Thursday                 257 commits         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Friday                   184 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Saturday                 65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Sunday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+HTML                     8 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.69 % 
+CSS                      6 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
+JavaScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+PHP                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Apache Config            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 20 mins      ████████████████████████░   96.50 % 
+Eclipse                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+
+🐱‍💻 Projects: 
+Unknown Project          11 hrs 22 mins      ████████████████░░░░░░░░░   63.27 % 
+99_portfolio             5 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.14 % 
+04_js_colorcode-map      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+demo-A                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+05_javaApp_stats-house-ex17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+
+💻 Operating System: 
+Mac                      17 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+HTML                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/hashio251/hashio251/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/10/2026 22:33:48 UTC
+<!--END_SECTION:waka-->
+
+
+
+---
+
+## 🌈 GitHub 3D Contribution
+
+<img src="https://raw.githubusercontent.com/hashio251/hashio251/main/profile-3d-contrib/profile-gitblock.svg?v=2" />
+
+
+
+---
+
+
+## 🎓 Certifications
+
+- 情報セキュリティマネジメント試験 — 2026年5月取得
+  - Information Security Management Examination — Obtained in May, 2026
+- 3級 ウェブデザイン技能士 — 2026年9月取得
+  - Grade 3 Web Design Technician — Obtained in September, 2026
+
+---
+
+## 🌱 Currently Learning
+
+フロントエンド・バックエンドのWeb開発を中心に、サーバー・DNS・データベースなど、WebサイトやWebアプリケーションが動く仕組みについて学んでいます。
+
+I am learning about the mechanisms that power websites and web applications—including servers, DNS, and databases—with a primary focus on frontend and backend web development.
+
+
+また、GitHubを活用したバージョン管理やチーム開発、Issue・Projects・Pull Requestなどを使った開発フローについても学習しています。
+
+I am also learning about version control and team development using GitHub, as well as development workflows that utilize features such as Issues, Projects, and Pull Requests.
+
+---
+
+## 👩‍💻 Team Development
+
+#### Habito　2026/02
+
+Django を使用したチーム開発プロジェクト。
+
+- アプリの企画・コンセプト設計
+- フロントエンドのUI・画面実装を担当
+- 既存デザインをもとに、PC版からSP対応まで一から実装（AI未使用）
+- CSSによるレスポンシブ対応・レイアウト調整
+- UXを考慮したデザインの微調整・最終確認
+- GitHubを使用したチーム共同開発
+
+Repository: Public  
+https://github.com/Tech-Jam-KDG-2026-Winter/Team-8-Django
+
+
+#### tyutai-kun　2026/07 - 08
+
+Next.js / TypeScript を使用したチーム開発プロジェクト。
+
+- フロントエンドのUI・画面実装を担当
+- 既存UIの改善・調整
+- CSSによるレイアウト・デザインの微調整
+- GitHubを使用したチーム共同開発
+
+https://odhackathon.metro.tokyo.lg.jp/collection/6632812913413127338/?year=2026
+
+---
+
+## 📌 Portfolio
+
+GitHub Pagesやポートフォリオサイトを通して、制作したWebサイトや作品を公開しています。
+
+I showcase the websites and projects I have created via GitHub Pages and my portfolio site.
+
+---
+
+
+## 🔗 GitHub Pages Collection
+
+### 🌐 Portfolio Website
+
+[🔗 View Project](https://hashio251.github.io/)
+
+Web開発・デザイン・プログラミング作品をまとめたポートフォリオサイトです。
+
+**Tech Stack:** HTML / CSS / JavaScript / jQuery
+
+---
+
+### 🎨 Art Thinking Project — THIS IS ME
+
+[🔗 View Project](https://hashio251.github.io/01_website_performance-artthinking-/)
+
+学校の授業「アートシンキング」で、「THIS IS ME」をテーマに制作したWeb作品です。
+※AI使用あり
+
+**Tech Stack:** HTML / CSS / JavaScript
+
+---
+
+### 👕 Art Thinking Project — Future of ZOZOTOWN
+
+[🔗 View Project](https://hashio251.github.io/01_website_presentation-artthinking-/)
+
+学校の授業「アートシンキング」で制作したWeb作品です。ECサイトでの購買が主流となった現在をもとに、5年後のZOZOTOWNをテーマとして表現しました。
+※AI使用あり
+
+**Tech Stack:** HTML / CSS / Tailwind CSS
+
+---
+
+### 💅 Nail Salon Website
+
+[🔗 View Project](https://hashio251.github.io/01_website_nailsalon/)
+
+友人のネイルサロンを想定して制作したWebサイトです。
+※AI使用あり
+
+**Tech Stack:** HTML / CSS / JavaScript
+
+---
+
+### 📺 UI About Like a TV
+
+[🔗 View Project](https://hashio251.github.io/02_smallworks_ui-about-like-a-tv/)
+
+レトロなテレビをモチーフに、画面や操作部分をイメージして制作したUI作品です。
+
+**Tech Stack:** HTML / CSS / JavaScript
+
+---
+
+### 🎮 Positive Personality Diagnosis Game
+
+[🔗 View Project](https://hashio251.github.io/00_smallapp_diagnosis-game/)
+
+質問に答えることで、自分の良いところを診断できるミニゲームです。
+
+**Tech Stack:** HTML / CSS / JavaScript
+
+
